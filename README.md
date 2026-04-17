@@ -1,5 +1,5 @@
 # Feelin Sealy 
-Seals are often sought to be peaceful creatures, but they have had enough... 
+Seals are often thought to be peaceful creatures, but they have had enough... 
 
 The seals have mobilized to take their land (everyhwere) back and make it Whimiscal. 
 
