@@ -14,7 +14,7 @@ They are hungry for destruction and slapping their bellies.
 ## Destroying Towers 
 <p>Destroy towers and hit the green goal to continue</p>
 
-##Difficulties 
+## Difficulties 
 
 <p>Easy: The seals in Antartica, everything is flat</p>
 
